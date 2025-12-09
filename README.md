@@ -61,7 +61,19 @@ trending-finder/
 │
 └── backend/ # Express backend proxy
 ├── server.js
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/trending-finder.git
+cd trending-finder
+
 ├── .env
 └── package.json
+
 
 
