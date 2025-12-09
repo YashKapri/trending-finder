@@ -50,4 +50,18 @@ Includes a clean UI, fast backend proxy, region selector, auto-refresh, and secu
 ---
 
 ## 📁 Project Structure
+trending-finder/
+│
+├── frontend/ # React + Vite + Tailwind UI
+│ ├── src/
+│ │ ├── App.jsx
+│ │ ├── index.css
+│ │ └── components/
+│ └── package.json
+│
+└── backend/ # Express backend proxy
+├── server.js
+├── .env
+└── package.json
+
 
