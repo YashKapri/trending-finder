@@ -1,4 +1,4 @@
-#  Trending Finder  
+#  Trending Finder 🚀  
 ### 🔥 Multi-Platform Trending Dashboard (YouTube + Instagram)
 
 ![GitHub license](https://img.shields.io/github/license/your-username/trending-finder?color=blue)
@@ -74,6 +74,7 @@ cd trending-finder
 
 ├── .env
 └── package.json
+
 
 
 
