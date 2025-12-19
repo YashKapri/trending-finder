@@ -1,6 +1,3 @@
-Wroking on that ! 
-
-
 #  Trending Finder 🚀  
 ### 🔥 Multi-Platform Trending Dashboard (YouTube + Instagram)
 
@@ -77,6 +74,7 @@ cd trending-finder
 
 ├── .env
 └── package.json
+
 
 
 
