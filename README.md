@@ -1,7 +1,6 @@
 
 
-we will working
-as soon as possible
+
 
 
 #  Trending Finder 🚀  
@@ -80,6 +79,7 @@ cd trending-finder
 
 ├── .env
 └── package.json
+
 
 
 
